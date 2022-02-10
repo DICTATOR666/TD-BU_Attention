@@ -1,4 +1,3 @@
-'''
 %  此程序主体部分由陆新泉完成，有相关疑问敬请联系
 %  此为全脑分析程序
 %  因实验数据情况，目前仅处理arrow条件
@@ -150,5 +149,4 @@ for sequence=1:2
             filename = ['TB_RT_MRI_Arrow_HQH_' int2str(run-4) '_30_2.mat'];
             load(filename);
         end
-    end
-    '''
+    en
