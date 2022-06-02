@@ -3,7 +3,7 @@
 
 作者：陆新泉
 
-联系方式:861503567@qq.com
+联系方式：861503567@qq.com
 
 版权所有：华南师范大学(SCNU) Vision & Attention Lab
 
